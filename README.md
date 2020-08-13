@@ -15,3 +15,7 @@
 [NodeBox 3](https://www.nodebox.net/node/) - Procedural art generator
 
 [Digital Crunch article](https://digitalcruch.com/free-graphic-design-software/) - 15 Free Graphic Design Software
+
+## Free stock photos and icons
+
+[Top 17 Free Stock Websites](https://www.pagecloud.com/blog/best-free-stock-image-websites) - List of 17 sites
