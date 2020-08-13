@@ -18,4 +18,8 @@
 
 ## Free stock photos and icons
 
-[Top 17 Free Stock Websites](https://www.pagecloud.com/blog/best-free-stock-image-websites) - List of 17 sites
+[Page Cloud article](https://www.pagecloud.com/blog/best-free-stock-image-websites) - Top 17 Free Stock Websites
+
+## Inspiration
+
+[Cubicle Ninjas article](https://cubicleninjas.com/design-inspiration-sites/) - 13 Websites to Inspire Your Inner Creative
