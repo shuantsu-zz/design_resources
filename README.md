@@ -14,4 +14,4 @@
 
 [NodeBox 3](https://www.nodebox.net/node/ "NodeBox 3") - Procedural art generator
 
-[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software") - 15 Free Graphic Design Software
+[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/) - 15 Free Graphic Design Software
