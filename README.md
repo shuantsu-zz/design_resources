@@ -8,10 +8,10 @@
 
 ## Software
 
-[Magika Voxel](https://ephtracy.github.io/ "Magika Voxel") - Voxel art creator
+[Magika Voxel](https://ephtracy.github.io/) - Voxel art creator
 
-[Apophysis 3d hack](http://www.fractalforums.com/apophysis/apophysis-3d-hack/ "Apophysis 3d hack") - Fractal creator
+[Apophysis 3d hack](http://www.fractalforums.com/apophysis/apophysis-3d-hack/) - Fractal creator
 
-[NodeBox 3](https://www.nodebox.net/node/ "NodeBox 3") - Procedural art generator
+[NodeBox 3](https://www.nodebox.net/node/) - Procedural art generator
 
 [Digital Crunch](https://digitalcruch.com/free-graphic-design-software/) - 15 Free Graphic Design Software
