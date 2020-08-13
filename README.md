@@ -1,4 +1,4 @@
-# Useful design resources
+# Useful free design resources
 
 ## Yooutube videos
 
