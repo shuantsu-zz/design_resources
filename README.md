@@ -6,7 +6,7 @@
 
 [Logos By Nick](https://www.youtube.com/c/LogosByNick/playlists "Logos By Nick - Inkscape tutorials") - Inkscape tutorials
 
-## Software
+## Tools
 
 [Magika Voxel](https://ephtracy.github.io/) - Voxel art creator
 
