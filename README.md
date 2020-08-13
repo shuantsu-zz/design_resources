@@ -8,6 +8,8 @@
 
 ## Software
 
-### Free software lists
+### Free software
 
-[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "Fee graphic design software")
+[Digital Crunch - 15 Free Graphic Design Software](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software")
+
+[Magika Voxel] (https://ephtracy.github.io/ "Magika Voxel")
