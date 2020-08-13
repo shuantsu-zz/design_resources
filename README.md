@@ -8,8 +8,8 @@
 
 ## Software
 
-[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software") - 15 Free Graphic Design Software
-
 [Magika Voxel](https://ephtracy.github.io/ "Magika Voxel") - Voxel art creator
 
 [Apophysis 3d hack](http://www.fractalforums.com/apophysis/apophysis-3d-hack/ "Apophysis 3d hack") - Fractal creator
+
+[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software") - 15 Free Graphic Design Software
