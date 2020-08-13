@@ -12,4 +12,4 @@
 
 [Digital Crunch - 15 Free Graphic Design Software](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software")
 
-[Magika Voxel] (https://ephtracy.github.io/ "Magika Voxel")
+[Magika Voxel](https://ephtracy.github.io/ "Magika Voxel")
