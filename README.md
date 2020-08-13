@@ -10,4 +10,4 @@
 
 ### Free software lists
 
-https://digitalcruch.com/free-graphic-design-software/
+[Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "Fee graphic design software")
