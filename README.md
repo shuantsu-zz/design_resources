@@ -1,6 +1,6 @@
 # Useful free design resources
 
-## Youtube videos
+## Tutorials
 
 [GCFLearnFree.org](https://www.youtube.com/c/GcflearnfreeOrgplus/playlists "GCFLearnFree.org - Work skills and design") - Design theory, among other playlists
 
