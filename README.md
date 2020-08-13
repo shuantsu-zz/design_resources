@@ -8,8 +8,6 @@
 
 ## Software
 
-### Free software
-
 [Digital Crunch](https://digitalcruch.com/free-graphic-design-software/ "15 Free Graphic Design Software") - 15 Free Graphic Design Software
 
 [Magika Voxel](https://ephtracy.github.io/ "Magika Voxel") - Voxel art creator
